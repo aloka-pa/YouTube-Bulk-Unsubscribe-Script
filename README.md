@@ -12,6 +12,7 @@ A simple script to unsubscribe from all YouTube channels quickly using the brows
 2. Open Developer Console:
 
    * Chrome: Ctrl + Shift + J
+   * Go to page All subscriptions -> Right click on the page -> Insepct -> Console 
 
 3. Paste the script from `script.js`
 
